@@ -1,5 +1,5 @@
 # Sky Shader Examples.
-Examples for godot 4 sky shaders.
+Example for godot 4 sky shader.
 
 ## Status:
-> WIP.
+> Archived.
